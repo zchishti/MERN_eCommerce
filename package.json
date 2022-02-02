@@ -21,7 +21,8 @@
   },
   "homepage": "https://github.com/zchishti/MERN_eCommerce#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "mongoose": "^6.1.10"
   },
   "devDependencies": {
     "concurrently": "^7.0.0",
