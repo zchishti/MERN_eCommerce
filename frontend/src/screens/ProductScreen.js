@@ -23,7 +23,7 @@ const ProductScreen = ({history}) => {
   },[ dispatch, params])
   
   const addTocartHandler = () => {
-    navigate(`/card/${params.id}?qty=${qty}`)
+    navigate(`/cart/${params.id}?qty=${qty}`)
   }
 
   return <div>
