@@ -5,3 +5,7 @@ main{
 .price{
     padding: 1rem 0;
 }
+
+.w-100{
+    width: 100%;
+}
